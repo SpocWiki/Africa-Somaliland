@@ -41,8 +41,8 @@ id: Somaliland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Somaliland//
-markerFolder: ./Somaliland//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 
