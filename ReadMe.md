@@ -46,11 +46,5 @@ markerFolder: .//
 ```
 
 
-## Confidential Links & Embeds: 
-- [[Somaliland|Somaliland]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]] 
+
 
